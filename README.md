@@ -218,4 +218,3 @@ The system explores partitioning between:
 
 ---
 
-## 14. Repository Structure Overview
